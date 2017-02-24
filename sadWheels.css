@@ -1,0 +1,25 @@
+body{
+  background-color: pink;
+  color: red;
+  cursor: url(http://www.webcis.com.br/images/lupa-clientes.cur), default;
+}
+
+h1{
+  text-align: center;
+  font-family: cursive;;
+  font-size: 72dp;
+  border-style: double;;
+  border-color: red;
+}
+
+h2{
+  font-family: sans-serif;
+}
+
+h3{
+  font-size: 16dp;
+}
+
+h4{
+  font-size: 20dp;
+}
